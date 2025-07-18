@@ -1,0 +1,6 @@
+.video-container iframe {
+    border: none;
+    /* إخفاء عناصر اليوتيوب الإضافية */
+    position: relative;
+    z-index: 1;
+}
